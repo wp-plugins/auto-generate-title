@@ -1,10 +1,10 @@
 === Auto Generate Title ===
 Contributors: j_p_s
 Author: Jatinder Pal Singh
-Donate link: http://www.appinstore.com/
+Donate link: http://www.jpsays.com/
 Tags: posts, title, post title, automatic, generator, creator, auto generator
 Requires at least: 3.x
-Tested up to: 3.4
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -22,7 +22,7 @@ There are two different ways, this plugin works: -
 * Firstly it will search the content to check whether you have used [agt][/agt]shortcode or not. If used, it will make the wrapped line as title.
 * If you haven't used shortcode in your post, it will automatically pick first 30 characters from the post and will use them as post title. 
 
-Currently this plugin is tested with latest wordpress version 3.4.2, but it should work with other versions also.
+Currently this plugin is tested with latest wordpress version 4.1, but it should work with other versions also.
 
 == Installation ==
 
