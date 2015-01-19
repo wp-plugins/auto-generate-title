@@ -6,7 +6,7 @@ Version: 1.0
 Tags: post title, title, automatic, generator
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Description: Auto Generate Title from the POST Content. If you leave Title blank, it will use the text written in [agt][/agt] within your post content. If you do not mention these shortcodes in your post, It will pick up first 30 characters from the post.
