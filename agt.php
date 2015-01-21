@@ -2,7 +2,7 @@
 /*
 Plugin Name: Auto Generate Title
 Author: Jatinder Pal Singh
-Version: 1.0
+Version: 1.1
 Tags: post title, title, automatic, generator
 Requires at least: 3.0.1
 Tested up to: 4.1
